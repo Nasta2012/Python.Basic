@@ -25,9 +25,10 @@ def test_hello():
 if __name__ == "__main__":
     main()
 
-rm test_hello.py
+
 
     
+
 
 
 
