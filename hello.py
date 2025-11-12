@@ -16,4 +16,7 @@ def hello(to="world"):
 
 
 if __name__ == "__main__":
+
     main()
+Delete hello.py
+    
